@@ -1,0 +1,2 @@
+# Renthouse_spider
+一个基于高德API的租房信息爬虫 qingdaodiqu 可以自己更改代码来修改位置 使用前需要去高德开发平台申请一个key
